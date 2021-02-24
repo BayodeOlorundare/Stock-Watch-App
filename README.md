@@ -5,7 +5,11 @@ A simple app to track stocks on a landing page
 * HTML5
 * CSS3
 * JavaScript
+* JQUERY
+* AJAX
 * NodeJS
+
+API provided by [Finnhub](https://finnhub.io/)
 
 ---------------------------------------
 ```
